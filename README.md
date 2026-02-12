@@ -52,11 +52,13 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+![WhatsApp Image 2026-02-12 at 8 36 53 PM](https://github.com/user-attachments/assets/87696a63-2142-4fc6-9278-27fa3290fcc6)
 
 ## Output
+![WhatsApp Image 2026-02-12 at 8 42 19 PM](https://github.com/user-attachments/assets/d40d18b3-2789-4ea9-a894-e72432f8819e)
 
 ## Result
-
+Thus, the experiment was simulated and the output was verifies successfully
 
 
 
