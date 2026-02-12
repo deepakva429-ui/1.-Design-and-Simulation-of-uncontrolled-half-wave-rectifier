@@ -58,7 +58,7 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 ![WhatsApp Image 2026-02-12 at 8 42 19 PM](https://github.com/user-attachments/assets/d40d18b3-2789-4ea9-a894-e72432f8819e)
 
 ## Result
-Thus, the experiment was simulated and the output was verifies successfully
+Thus, the experiment was simulated and the output was verified successfully
 
 
 
